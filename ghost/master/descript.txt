@@ -1,0 +1,11 @@
+charset,utf-8
+type,ghost
+
+craftman,AuthorName
+
+name,phiori Template
+
+sakura.name,MainCharacterName
+kero.name,SubCharacterName
+
+shiori,phiori.dll

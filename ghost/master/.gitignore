@@ -1,0 +1,6 @@
+dlls/
+lib/
+phiori/
+msvcr*.dll
+phiori.dll
+python*.dll

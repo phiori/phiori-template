@@ -1,0 +1,5 @@
+
+surface0
+{
+collision0,50,60,178,108,Head
+}
